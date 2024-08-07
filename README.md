@@ -1,8 +1,11 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Project Title
+Welcome to Footpedia! This blog was created by Ashutosh Chaudhary as a personal project to share his thoughts and football knowledge with the world.
 
-Currently, two official plugins are available:
+On this website, you'll find weekly articles and updates of the current happenings in the football world .
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+We encourage you to leave comments on our posts and engage with other readers.
+You can like other people's comments and reply to them as well. 
+We believe that a community of enthusiasts can help each other to grow the sport.
